@@ -36,7 +36,7 @@ This application can also be easily deployed to Heroku, which is extremely good 
 
 You may [read further](#further-reading) to learn about more more deployment options.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aahnik/telewater)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/taufiqdayat211/telewater)
 
 Click on the above button. A form will appear, where you need to enter the credentials for the bot. After the app is deployed sucessfully, [turn on the woker dyno](https://user-images.githubusercontent.com/66209958/117938593-d6de0080-b324-11eb-9c0f-9bcc6d975808.png) to start the bot.
 
