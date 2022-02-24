@@ -4,7 +4,7 @@
   "description": "A telegram bot that applies watermark on images, gifs, and videos.",
   "keywords": ["telegram", "watermark", "bot"],
   "website": "https://aahnik.dev",
-  "repository": "https://github.com/aahnik/telewater",
+  "repository": "https://github.com/taufiqdayat211/telewater",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png",
 
   "env": {
